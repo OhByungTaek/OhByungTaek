@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 ✨ 수상 경력 ✨
-<br>
-    
+<br><br>
+
 | 수상명 | 수상내역 | 수상기관 |
 |:---:|:---:|:---:|
 |2023 XR 디바이스 콘텐츠 아이디어톤 | 대상 (과학기술정보통신부 장관상) | 정보통신산업진흥원<br>구미전자정보기술원<br>차세대융합콘텐츠산업협회|
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 😄 자격증 😄
-<br>
-    
+<br><br>
+
 | 자격증 | 취득일자 | 발급기관 |
 |:---:|:---:|:---:|
 | 정보처리기사 | 2024.12 | 한국산업인력공단 |
