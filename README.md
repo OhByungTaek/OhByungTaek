@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <br><br><br>
-|---|
+|hr|
 
 ✨ 수상 경력 ✨
 <div align="center">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 <br><br><br>
-|---|
+|hr|
 
 😄 자격증 😄
 <div align="center">
