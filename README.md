@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     </div>
 
 
-
+<br><br><br>
 
 <div align="center">
   ✨ 수상 경력 ✨
@@ -45,19 +45,11 @@ Here are some ideas to get you started:
 </div>
 
 
+<br><br><br>
 
 
-
-
-
-
-
-
-
-
-
-
-😄 자격증 😄
+<div align="center">
+  😄 자격증 😄
 
 | 자격증 | 취득일자 | 발급기관 |
 |:---:|:---:|:---:|
@@ -66,4 +58,13 @@ Here are some ideas to get you started:
 | SQLD | 2025.12 | 한국데이터산업진흥원 |
 | 웹디자인기능사 | 2022. 09 | 한국산업인력공단 |
 | 컴퓨터활용능력 2급 | 2020. 07 | 대한상공회의소 |
+</div>
+
+
+
+
+
+
+
+
     
