@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d7dcfe,100:7ef1d4&height=180&text=Hello%20World!&animation=scaleIn&fontColor=390404&fontSize=60" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/C%23-663399?style=plastic&logo=C%23&logoColor=white">
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 
 <br><br><br>
+|---|
 
 ✨ 수상 경력 ✨
 <div align="center">
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 
 
 <br><br><br>
+|---|
 
 😄 자격증 😄
 <div align="center">
