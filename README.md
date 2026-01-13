@@ -29,8 +29,7 @@ Here are some ideas to get you started:
           </div>
     </div>
 
-
-<br><br><br>
+<br><br>
 <hr>
 
 <div align="center">
