@@ -29,6 +29,14 @@ Here are some ideas to get you started:
           </div>
     </div>
 
+
+
+
+
+
+
+
+
 1. ✨ 수상 경력 ✨
 
 | 수상명 | 수상내역 | 수상기관 |
@@ -39,12 +47,20 @@ Here are some ideas to get you started:
 |2024 한국컴퓨터그래픽스학회 학술대회|학부 우수포스터상|한국컴퓨터그래픽스학회|
 
 
+
+
+
+
+
+
+
+
 2. 😄 자격증 😄
 
 | 자격증 | 취득일자 | 발급기관 |
 |:---:|:---:|:---:|
 | 정보처리기사 | 2024.12 | 한국산업인력공단 |
-| ISTQB Certified Tester Foundation Level (ISTQB CTFL) | 2025.12 | ISTQB |
+| ISTQB CTFL | 2025.12 | ISTQB |
 | SQLD | 2025.12 | 한국데이터산업진흥원 |
 | 웹디자인기능사 | 2022. 09 | 한국산업인력공단 |
 | 컴퓨터활용능력 2급 | 2020. 07 | 대한상공회의소 |
