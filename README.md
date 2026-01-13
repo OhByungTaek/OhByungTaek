@@ -1,5 +1,3 @@
-## Hello World! 👋
-
 <!--
 **OhByungTaek/OhByungTaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d7dcfe,100:7ef1d4&height=180&text=Hello%20World!&animation=scaleIn&fontColor=390404&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d7dcfe,100:7ef1d4&height=180&text=Hello%20World! 👋 &animation=scaleIn&fontColor=390404&fontSize=60" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
